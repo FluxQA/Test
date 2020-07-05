@@ -1,0 +1,1341 @@
+2020-05-20 22:02:27 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:02:27 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:02:27 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:02:27 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:02:27 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:02:27 INFO  Log:33 - Opening Browser
+2020-05-20 22:02:32 INFO  Log:33 - Chrome browser started
+2020-05-20 22:02:32 INFO  Log:33 - Navigating to URL
+2020-05-20 22:02:37 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:02:37 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:02:37 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:02:37 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:02:37 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:02:37 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:02:37 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:02:40 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:02:45 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:02:45 INFO  Log:33 -  Expected TitleOpenAir : Home : IST LLC
+2020-05-20 22:02:45 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:02:45 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-20 22:02:46 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:02:46 INFO  Log:24 - X
+2020-05-20 22:02:46 INFO  Log:25 - X
+2020-05-20 22:02:46 INFO  Log:26 - X
+2020-05-20 22:02:46 INFO  Log:27 - X
+2020-05-20 22:02:46 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:02:46 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:02:46 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:02:46 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:02:46 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:02:46 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:02:46 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:02:46 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:02:51 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:02:51 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:02:56 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:02:59 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:03:02 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:03:06 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:03:06 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:03:06 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:03:11 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:03:12 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:03:12 INFO  Log:24 - X
+2020-05-20 22:03:12 INFO  Log:25 - X
+2020-05-20 22:03:12 INFO  Log:26 - X
+2020-05-20 22:03:12 INFO  Log:27 - X
+2020-05-20 22:03:12 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:03:12 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:03:12 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:03:12 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:03:12 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:03:12 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:03:12 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:03:12 INFO  Log:33 - Validate TitleTitle_End
+2020-05-20 22:03:17 INFO  Log:33 -  TitleOpenAir : Timesheets : AST LLC
+2020-05-20 22:03:17 INFO  Log:33 -  Expected TitleOpenAir Identification
+2020-05-20 22:03:17 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:03:17 INFO  Log:33 - Capture ScreenshotTitle_End
+2020-05-20 22:03:17 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:03:17 INFO  Log:33 - Closing the browser
+2020-05-20 22:03:18 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:03:18 INFO  Log:24 - X
+2020-05-20 22:03:18 INFO  Log:25 - X
+2020-05-20 22:03:18 INFO  Log:26 - X
+2020-05-20 22:03:18 INFO  Log:27 - X
+2020-05-20 22:05:16 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:05:16 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:05:16 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:05:16 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:05:16 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:05:25 INFO  Log:33 - Opening Browser
+2020-05-20 22:05:31 INFO  Log:33 - Chrome browser started
+2020-05-20 22:05:34 INFO  Log:33 - Navigating to URL
+2020-05-20 22:05:45 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:05:46 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:05:48 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:05:49 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:05:51 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:05:52 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:05:54 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:05:58 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:06:03 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:06:03 INFO  Log:33 -  Expected TitleOpenAir : Home : IST LLC
+2020-05-20 22:07:02 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:07:14 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-20 22:10:03 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:10:03 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:10:03 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:10:03 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:10:03 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:10:03 INFO  Log:33 - Opening Browser
+2020-05-20 22:10:09 INFO  Log:33 - Chrome browser started
+2020-05-20 22:10:09 INFO  Log:33 - Navigating to URL
+2020-05-20 22:10:28 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:10:28 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:10:32 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:10:32 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:10:36 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:10:36 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:10:37 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:10:40 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:10:45 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:10:45 INFO  Log:33 -  Expected TitleOpenAir : Home : IST LLC
+2020-05-20 22:11:52 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:12:22 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-20 22:14:27 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:14:27 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:14:27 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:14:27 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:14:27 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:14:27 INFO  Log:33 - Opening Browser
+2020-05-20 22:14:33 INFO  Log:33 - Chrome browser started
+2020-05-20 22:14:33 INFO  Log:33 - Navigating to URL
+2020-05-20 22:14:38 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:14:38 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:14:38 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:14:38 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:14:38 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:14:38 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:14:38 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:14:41 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:14:46 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:14:46 INFO  Log:33 -  Expected TitleOpenAir : Home : IST LLC
+2020-05-20 22:14:46 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:14:46 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-20 22:14:46 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:14:46 INFO  Log:24 - X
+2020-05-20 22:14:46 INFO  Log:25 - X
+2020-05-20 22:14:46 INFO  Log:26 - X
+2020-05-20 22:14:46 INFO  Log:27 - X
+2020-05-20 22:14:46 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:14:46 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:14:46 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:14:46 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:14:46 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:14:46 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:14:46 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:14:46 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:14:51 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:14:52 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:14:57 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:15:00 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:15:03 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:15:06 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:15:06 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:15:06 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:15:11 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:15:12 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:15:12 INFO  Log:24 - X
+2020-05-20 22:15:12 INFO  Log:25 - X
+2020-05-20 22:15:12 INFO  Log:26 - X
+2020-05-20 22:15:12 INFO  Log:27 - X
+2020-05-20 22:15:12 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:15:12 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:15:12 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:15:12 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:15:12 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:15:12 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:15:12 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:15:12 INFO  Log:33 - Validate TitleTitle_End
+2020-05-20 22:15:17 INFO  Log:33 -  TitleOpenAir : Timesheets : AST LLC
+2020-05-20 22:15:17 INFO  Log:33 -  Expected TitleOpenAir Identification
+2020-05-20 22:15:17 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-20 22:15:17 INFO  Log:33 - Capture ScreenshotTitle_End
+2020-05-20 22:15:18 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:15:18 INFO  Log:33 - Closing the browser
+2020-05-20 22:15:19 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:15:19 INFO  Log:24 - X
+2020-05-20 22:15:19 INFO  Log:25 - X
+2020-05-20 22:15:19 INFO  Log:26 - X
+2020-05-20 22:15:19 INFO  Log:27 - X
+2020-05-20 22:17:51 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:17:51 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:17:51 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:17:51 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:17:51 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:17:51 INFO  Log:33 - Opening Browser
+2020-05-20 22:17:57 INFO  Log:33 - Chrome browser started
+2020-05-20 22:17:57 INFO  Log:33 - Navigating to URL
+2020-05-20 22:18:02 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:18:02 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:18:02 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:18:02 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:18:02 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:18:02 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:18:02 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:18:05 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:18:10 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:18:10 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:18:10 INFO  Log:33 - Correct Title
+2020-05-20 22:18:10 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:18:10 INFO  Log:24 - X
+2020-05-20 22:18:10 INFO  Log:25 - X
+2020-05-20 22:18:10 INFO  Log:26 - X
+2020-05-20 22:18:10 INFO  Log:27 - X
+2020-05-20 22:18:10 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:18:10 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:18:10 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:18:10 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:18:10 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:18:10 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:18:10 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:18:10 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:18:15 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:18:16 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:18:21 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:18:24 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:18:27 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:18:30 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:18:30 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:18:30 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:18:35 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:18:36 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:18:36 INFO  Log:24 - X
+2020-05-20 22:18:36 INFO  Log:25 - X
+2020-05-20 22:18:36 INFO  Log:26 - X
+2020-05-20 22:18:36 INFO  Log:27 - X
+2020-05-20 22:18:36 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:18:36 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:18:36 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:18:36 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:18:36 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:18:36 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:18:36 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:18:36 INFO  Log:33 - Closing the browser
+2020-05-20 22:18:37 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:18:37 INFO  Log:24 - X
+2020-05-20 22:18:37 INFO  Log:25 - X
+2020-05-20 22:18:37 INFO  Log:26 - X
+2020-05-20 22:18:37 INFO  Log:27 - X
+2020-05-20 22:19:43 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:19:43 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:19:43 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:19:43 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:19:43 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:19:43 INFO  Log:33 - Opening Browser
+2020-05-20 22:19:49 INFO  Log:33 - Chrome browser started
+2020-05-20 22:19:49 INFO  Log:33 - Navigating to URL
+2020-05-20 22:19:54 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:19:54 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:19:54 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:19:54 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:19:54 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:19:54 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:19:54 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:19:57 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:20:02 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:20:02 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:20:02 INFO  Log:33 - Correct Title
+2020-05-20 22:20:02 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:20:02 INFO  Log:24 - X
+2020-05-20 22:20:02 INFO  Log:25 - X
+2020-05-20 22:20:02 INFO  Log:26 - X
+2020-05-20 22:20:02 INFO  Log:27 - X
+2020-05-20 22:20:02 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:20:02 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:20:02 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:20:02 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:20:02 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:20:02 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:20:02 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:20:02 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:20:07 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:20:08 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:20:13 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:20:16 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:20:19 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:20:22 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:20:22 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:20:22 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:20:27 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:20:28 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:20:28 INFO  Log:24 - X
+2020-05-20 22:20:28 INFO  Log:25 - X
+2020-05-20 22:20:28 INFO  Log:26 - X
+2020-05-20 22:20:28 INFO  Log:27 - X
+2020-05-20 22:20:28 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:20:28 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:20:28 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:20:28 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:20:28 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:20:28 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:20:28 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:20:28 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:20:28 INFO  Log:33 - Capture Screenshotlogout
+2020-05-20 22:20:28 ERROR Log:41 - Not able to click --- invalid selector: Unable to locate an element with the xpath expression //*[@id="oa_menu_button_logout" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="oa_menu_button_logout"' is not a valid XPath expression.
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-ERQOL71', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\shrey\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50643}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b896afb3f5ab6e6eb4232adac1038db6
+*** Element info: {Using=xpath, value=//*[@id="oa_menu_button_logout"}
+2020-05-20 22:20:28 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:20:28 INFO  Log:24 - X
+2020-05-20 22:20:28 INFO  Log:25 - X
+2020-05-20 22:20:28 INFO  Log:26 - X
+2020-05-20 22:20:28 INFO  Log:27 - X
+2020-05-20 22:22:55 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:22:55 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:22:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:22:55 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:22:55 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:22:55 INFO  Log:33 - Opening Browser
+2020-05-20 22:23:01 INFO  Log:33 - Chrome browser started
+2020-05-20 22:23:01 INFO  Log:33 - Navigating to URL
+2020-05-20 22:23:05 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:23:06 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:23:06 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:23:06 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:23:06 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:23:06 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:23:06 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:23:09 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:23:14 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:23:14 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:23:14 INFO  Log:33 - Correct Title
+2020-05-20 22:23:14 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:23:14 INFO  Log:24 - X
+2020-05-20 22:23:14 INFO  Log:25 - X
+2020-05-20 22:23:14 INFO  Log:26 - X
+2020-05-20 22:23:14 INFO  Log:27 - X
+2020-05-20 22:23:14 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:23:14 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:23:14 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:23:14 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:23:14 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:23:14 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:23:14 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:23:14 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:23:19 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:23:20 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:23:25 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:23:28 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:23:31 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:23:34 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:23:34 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:23:34 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:23:39 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:23:40 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:23:40 INFO  Log:24 - X
+2020-05-20 22:23:40 INFO  Log:25 - X
+2020-05-20 22:23:40 INFO  Log:26 - X
+2020-05-20 22:23:40 INFO  Log:27 - X
+2020-05-20 22:23:40 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:23:40 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:23:40 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:23:40 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:23:40 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:23:40 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:23:40 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:23:40 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:23:40 INFO  Log:33 - Capture Screenshotlogout
+2020-05-20 22:23:40 ERROR Log:41 - Not able to click --- invalid selector: Unable to locate an element with the xpath expression //*[@id="oa_menu_button_logout" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="oa_menu_button_logout"' is not a valid XPath expression.
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-ERQOL71', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\shrey\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50774}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 584b4e59c5241eb209021bb1e178e66d
+*** Element info: {Using=xpath, value=//*[@id="oa_menu_button_logout"}
+2020-05-20 22:23:40 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:23:40 INFO  Log:24 - X
+2020-05-20 22:23:40 INFO  Log:25 - X
+2020-05-20 22:23:40 INFO  Log:26 - X
+2020-05-20 22:23:40 INFO  Log:27 - X
+2020-05-20 22:24:45 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:24:45 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:24:45 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:24:45 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:24:45 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:24:45 INFO  Log:33 - Opening Browser
+2020-05-20 22:24:50 INFO  Log:33 - Chrome browser started
+2020-05-20 22:24:50 INFO  Log:33 - Navigating to URL
+2020-05-20 22:24:55 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:24:55 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:24:55 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:24:55 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:24:55 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:24:56 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:24:56 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:24:58 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:25:03 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:25:03 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:25:03 INFO  Log:33 - Correct Title
+2020-05-20 22:25:03 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:25:03 INFO  Log:24 - X
+2020-05-20 22:25:03 INFO  Log:25 - X
+2020-05-20 22:25:03 INFO  Log:26 - X
+2020-05-20 22:25:03 INFO  Log:27 - X
+2020-05-20 22:25:03 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:25:03 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:25:03 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:25:03 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:25:03 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:25:03 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:25:03 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:25:03 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:25:03 INFO  Log:33 - Capture Screenshotlogout
+2020-05-20 22:25:04 ERROR Log:41 - Not able to click --- invalid selector: Unable to locate an element with the xpath expression //*[@id="oa_menu_button_logout" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="oa_menu_button_logout"' is not a valid XPath expression.
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-ERQOL71', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\shrey\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed0f293bd645591a361c787f30296f33
+*** Element info: {Using=xpath, value=//*[@id="oa_menu_button_logout"}
+2020-05-20 22:25:04 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:25:04 INFO  Log:24 - X
+2020-05-20 22:25:04 INFO  Log:25 - X
+2020-05-20 22:25:04 INFO  Log:26 - X
+2020-05-20 22:25:04 INFO  Log:27 - X
+2020-05-20 22:26:21 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:26:21 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:26:21 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:26:21 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:26:21 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:26:21 INFO  Log:33 - Opening Browser
+2020-05-20 22:26:26 INFO  Log:33 - Chrome browser started
+2020-05-20 22:26:26 INFO  Log:33 - Navigating to URL
+2020-05-20 22:26:31 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:26:31 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:26:31 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:26:31 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:26:31 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:26:31 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:26:31 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:26:34 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:26:39 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:26:39 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:26:39 INFO  Log:33 - Correct Title
+2020-05-20 22:26:39 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:26:39 INFO  Log:24 - X
+2020-05-20 22:26:39 INFO  Log:25 - X
+2020-05-20 22:26:39 INFO  Log:26 - X
+2020-05-20 22:26:39 INFO  Log:27 - X
+2020-05-20 22:26:39 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:26:39 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:26:39 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:26:39 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:26:39 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:26:39 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:26:39 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:26:39 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:26:39 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:26:39 INFO  Log:24 - X
+2020-05-20 22:26:39 INFO  Log:25 - X
+2020-05-20 22:26:39 INFO  Log:26 - X
+2020-05-20 22:26:39 INFO  Log:27 - X
+2020-05-20 22:27:57 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:27:57 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:27:57 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:27:57 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:27:57 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:27:57 INFO  Log:33 - Opening Browser
+2020-05-20 22:28:02 INFO  Log:33 - Chrome browser started
+2020-05-20 22:28:02 INFO  Log:33 - Navigating to URL
+2020-05-20 22:28:07 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:28:07 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:28:07 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:28:07 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:28:07 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:28:07 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:28:07 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:28:10 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:28:15 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:28:15 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:28:15 INFO  Log:33 - Correct Title
+2020-05-20 22:28:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:28:15 INFO  Log:24 - X
+2020-05-20 22:28:15 INFO  Log:25 - X
+2020-05-20 22:28:15 INFO  Log:26 - X
+2020-05-20 22:28:15 INFO  Log:27 - X
+2020-05-20 22:28:15 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:28:15 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:28:15 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:28:15 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:28:15 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:28:15 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:28:15 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:28:15 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:28:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:28:15 INFO  Log:24 - X
+2020-05-20 22:28:15 INFO  Log:25 - X
+2020-05-20 22:28:15 INFO  Log:26 - X
+2020-05-20 22:28:15 INFO  Log:27 - X
+2020-05-20 22:28:41 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:28:41 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:28:41 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:28:41 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:28:41 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:28:41 INFO  Log:33 - Opening Browser
+2020-05-20 22:28:47 INFO  Log:33 - Chrome browser started
+2020-05-20 22:28:47 INFO  Log:33 - Navigating to URL
+2020-05-20 22:28:52 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:28:52 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:28:52 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:28:52 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:28:52 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:28:52 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:28:52 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:28:55 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:29:00 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:29:00 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:29:00 INFO  Log:33 - Correct Title
+2020-05-20 22:29:00 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:29:00 INFO  Log:24 - X
+2020-05-20 22:29:00 INFO  Log:25 - X
+2020-05-20 22:29:00 INFO  Log:26 - X
+2020-05-20 22:29:00 INFO  Log:27 - X
+2020-05-20 22:29:00 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:29:00 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:29:00 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:29:00 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:29:00 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:29:00 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:29:00 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:29:00 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:29:00 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:29:00 INFO  Log:24 - X
+2020-05-20 22:29:00 INFO  Log:25 - X
+2020-05-20 22:29:00 INFO  Log:26 - X
+2020-05-20 22:29:00 INFO  Log:27 - X
+2020-05-20 22:42:48 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:42:48 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:42:48 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:42:48 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:42:48 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:42:48 INFO  Log:33 - Opening Browser
+2020-05-20 22:42:54 INFO  Log:33 - Chrome browser started
+2020-05-20 22:42:54 INFO  Log:33 - Navigating to URL
+2020-05-20 22:42:59 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:42:59 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:42:59 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:42:59 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:42:59 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:42:59 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:42:59 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:43:02 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:43:07 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:43:07 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:43:07 INFO  Log:33 - Correct Title
+2020-05-20 22:43:07 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:43:07 INFO  Log:24 - X
+2020-05-20 22:43:07 INFO  Log:25 - X
+2020-05-20 22:43:07 INFO  Log:26 - X
+2020-05-20 22:43:07 INFO  Log:27 - X
+2020-05-20 22:43:07 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:43:07 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:43:07 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:43:07 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:43:07 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:43:07 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:43:07 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:43:07 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:43:07 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:43:07 INFO  Log:24 - X
+2020-05-20 22:43:07 INFO  Log:25 - X
+2020-05-20 22:43:07 INFO  Log:26 - X
+2020-05-20 22:43:07 INFO  Log:27 - X
+2020-05-20 22:44:47 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:44:47 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:44:47 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:44:47 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:44:47 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:44:47 INFO  Log:33 - Opening Browser
+2020-05-20 22:44:53 INFO  Log:33 - Chrome browser started
+2020-05-20 22:44:53 INFO  Log:33 - Navigating to URL
+2020-05-20 22:44:57 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-20 22:44:58 INFO  Log:33 - Entering the text in CompanyID
+2020-05-20 22:44:58 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-20 22:44:58 INFO  Log:33 - Entering the text in UserID
+2020-05-20 22:44:58 INFO  Log:33 - Clicking on Webelement Password
+2020-05-20 22:44:58 INFO  Log:33 - Entering the text in Password
+2020-05-20 22:44:58 INFO  Log:33 - Clicking on Webelement Login
+2020-05-20 22:45:01 INFO  Log:33 - Validate TitleTitle
+2020-05-20 22:45:06 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-20 22:45:06 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-20 22:45:06 INFO  Log:33 - Correct Title
+2020-05-20 22:45:06 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:45:06 INFO  Log:24 - X
+2020-05-20 22:45:06 INFO  Log:25 - X
+2020-05-20 22:45:06 INFO  Log:26 - X
+2020-05-20 22:45:06 INFO  Log:27 - X
+2020-05-20 22:45:06 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:45:06 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:45:06 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:45:06 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:45:06 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:45:06 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-20 22:45:06 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-20 22:45:06 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:45:11 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-20 22:45:11 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:45:16 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-20 22:45:19 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-20 22:45:22 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-20 22:45:25 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-20 22:45:25 INFO  Log:33 - Entering the text in Notes
+2020-05-20 22:45:26 INFO  Log:33 - Wait for 5 seconds
+2020-05-20 22:45:31 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-20 22:45:32 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:45:32 INFO  Log:24 - X
+2020-05-20 22:45:32 INFO  Log:25 - X
+2020-05-20 22:45:32 INFO  Log:26 - X
+2020-05-20 22:45:32 INFO  Log:27 - X
+2020-05-20 22:45:32 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-20 22:45:32 INFO  Log:13 - ****************************************************************************************
+2020-05-20 22:45:32 INFO  Log:14 - ****************************************************************************************
+2020-05-20 22:45:32 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-20 22:45:32 INFO  Log:16 - ****************************************************************************************
+2020-05-20 22:45:32 INFO  Log:17 - ****************************************************************************************
+2020-05-20 22:45:32 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-20 22:45:32 INFO  Log:33 - Clicking on Webelement logout
+2020-05-20 22:45:32 INFO  Log:33 - Capture Screenshotlogout
+2020-05-20 22:45:32 ERROR Log:41 - Not able to click --- invalid selector: Unable to locate an element with the xpath expression //*[@id="oa_menu_button_logout" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="oa_menu_button_logout"' is not a valid XPath expression.
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-ERQOL71', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\shrey\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 75a774001c14f1a86d6e486cc4bf35d8
+*** Element info: {Using=xpath, value=//*[@id="oa_menu_button_logout"}
+2020-05-20 22:45:32 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-20 22:45:32 INFO  Log:24 - X
+2020-05-20 22:45:32 INFO  Log:25 - X
+2020-05-20 22:45:32 INFO  Log:26 - X
+2020-05-20 22:45:32 INFO  Log:27 - X
+2020-05-22 19:48:50 INFO  Log:13 - ****************************************************************************************
+2020-05-22 19:48:50 INFO  Log:14 - ****************************************************************************************
+2020-05-22 19:48:50 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 19:48:50 INFO  Log:16 - ****************************************************************************************
+2020-05-22 19:48:50 INFO  Log:17 - ****************************************************************************************
+2020-05-22 19:48:50 INFO  Log:33 - Opening Browser
+2020-05-22 19:48:56 INFO  Log:33 - Chrome browser started
+2020-05-22 19:48:57 INFO  Log:33 - Navigating to URL
+2020-05-22 19:49:01 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 19:49:01 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 19:49:01 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 19:49:02 INFO  Log:33 - Entering the text in UserID
+2020-05-22 19:49:02 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 19:49:02 INFO  Log:33 - Entering the text in Password
+2020-05-22 19:49:02 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 19:49:05 INFO  Log:33 - Validate TitleTitle
+2020-05-22 19:49:10 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 19:49:10 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 19:49:10 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 19:49:10 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 19:49:11 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 19:49:11 INFO  Log:24 - X
+2020-05-22 19:49:11 INFO  Log:25 - X
+2020-05-22 19:49:11 INFO  Log:26 - X
+2020-05-22 19:49:11 INFO  Log:27 - X
+2020-05-22 19:51:09 INFO  Log:13 - ****************************************************************************************
+2020-05-22 19:51:09 INFO  Log:14 - ****************************************************************************************
+2020-05-22 19:51:09 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 19:51:09 INFO  Log:16 - ****************************************************************************************
+2020-05-22 19:51:09 INFO  Log:17 - ****************************************************************************************
+2020-05-22 19:51:09 INFO  Log:33 - Opening Browser
+2020-05-22 19:51:15 INFO  Log:33 - Chrome browser started
+2020-05-22 19:51:15 INFO  Log:33 - Navigating to URL
+2020-05-22 19:51:20 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 19:51:20 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 19:51:20 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 19:51:20 INFO  Log:33 - Entering the text in UserID
+2020-05-22 19:51:20 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 19:51:20 INFO  Log:33 - Entering the text in Password
+2020-05-22 19:51:20 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 19:51:23 INFO  Log:33 - Validate TitleTitle
+2020-05-22 19:51:28 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 19:51:28 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 19:52:06 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 19:54:46 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 19:57:33 INFO  Log:13 - ****************************************************************************************
+2020-05-22 19:57:33 INFO  Log:14 - ****************************************************************************************
+2020-05-22 19:57:33 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 19:57:33 INFO  Log:16 - ****************************************************************************************
+2020-05-22 19:57:33 INFO  Log:17 - ****************************************************************************************
+2020-05-22 19:57:33 INFO  Log:33 - Opening Browser
+2020-05-22 19:57:39 INFO  Log:33 - Chrome browser started
+2020-05-22 19:57:39 INFO  Log:33 - Navigating to URL
+2020-05-22 19:57:44 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 19:57:44 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 19:57:44 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 19:57:44 INFO  Log:33 - Entering the text in UserID
+2020-05-22 19:57:44 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 19:57:44 INFO  Log:33 - Entering the text in Password
+2020-05-22 19:57:44 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 19:57:48 INFO  Log:33 - Validate TitleTitle
+2020-05-22 19:57:53 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 19:57:53 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 19:57:53 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 19:57:53 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 19:57:54 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 19:57:54 INFO  Log:24 - X
+2020-05-22 19:57:54 INFO  Log:25 - X
+2020-05-22 19:57:54 INFO  Log:26 - X
+2020-05-22 19:57:54 INFO  Log:27 - X
+2020-05-22 20:01:06 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:01:06 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:01:06 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:01:06 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:01:06 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:01:06 INFO  Log:33 - Opening Browser
+2020-05-22 20:01:11 INFO  Log:33 - Chrome browser started
+2020-05-22 20:01:11 INFO  Log:33 - Navigating to URL
+2020-05-22 20:01:16 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:01:16 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:01:16 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:01:17 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:01:17 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:01:17 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:01:17 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:01:21 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:01:26 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:01:26 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:01:26 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:01:26 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:01:26 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:01:26 INFO  Log:24 - X
+2020-05-22 20:01:26 INFO  Log:25 - X
+2020-05-22 20:01:26 INFO  Log:26 - X
+2020-05-22 20:01:26 INFO  Log:27 - X
+2020-05-22 20:04:49 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:04:49 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:04:49 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:04:49 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:04:49 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:04:49 INFO  Log:33 - Opening Browser
+2020-05-22 20:04:54 INFO  Log:33 - Chrome browser started
+2020-05-22 20:04:54 INFO  Log:33 - Navigating to URL
+2020-05-22 20:04:59 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:04:59 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:04:59 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:05:00 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:05:00 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:05:00 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:05:00 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:05:03 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:05:08 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:05:08 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:05:08 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:05:08 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:05:08 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:05:08 INFO  Log:24 - X
+2020-05-22 20:05:08 INFO  Log:25 - X
+2020-05-22 20:05:08 INFO  Log:26 - X
+2020-05-22 20:05:08 INFO  Log:27 - X
+2020-05-22 20:06:01 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:06:01 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:06:01 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:06:01 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:06:01 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:06:01 INFO  Log:33 - Opening Browser
+2020-05-22 20:06:07 INFO  Log:33 - Chrome browser started
+2020-05-22 20:06:08 INFO  Log:33 - Navigating to URL
+2020-05-22 20:06:12 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:06:13 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:06:13 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:06:13 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:06:13 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:06:13 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:06:13 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:06:17 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:06:22 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:06:22 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:06:40 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:06:53 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:09:33 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:09:33 INFO  Log:24 - X
+2020-05-22 20:09:33 INFO  Log:25 - X
+2020-05-22 20:09:33 INFO  Log:26 - X
+2020-05-22 20:09:33 INFO  Log:27 - X
+2020-05-22 20:09:39 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:09:39 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:09:39 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:09:39 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:09:39 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:09:39 INFO  Log:33 - Opening Browser
+2020-05-22 20:09:45 INFO  Log:33 - Chrome browser started
+2020-05-22 20:09:45 INFO  Log:33 - Navigating to URL
+2020-05-22 20:09:50 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:09:50 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:09:50 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:09:50 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:09:51 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:09:51 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:09:51 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:10:08 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:10:16 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:11:02 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:11:11 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:11:11 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:11:12 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:11:12 INFO  Log:24 - X
+2020-05-22 20:11:12 INFO  Log:25 - X
+2020-05-22 20:11:12 INFO  Log:26 - X
+2020-05-22 20:11:12 INFO  Log:27 - X
+2020-05-22 20:11:19 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:11:19 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:11:19 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:11:19 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:11:19 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:11:19 INFO  Log:33 - Opening Browser
+2020-05-22 20:11:25 INFO  Log:33 - Chrome browser started
+2020-05-22 20:11:25 INFO  Log:33 - Navigating to URL
+2020-05-22 20:11:30 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:11:30 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:11:30 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:11:30 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:11:30 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:11:30 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:11:30 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:11:43 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:12:01 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:12:01 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:12:07 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:12:07 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:12:07 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:12:07 INFO  Log:24 - X
+2020-05-22 20:12:07 INFO  Log:25 - X
+2020-05-22 20:12:07 INFO  Log:26 - X
+2020-05-22 20:12:07 INFO  Log:27 - X
+2020-05-22 20:12:13 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:12:13 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:12:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:12:13 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:12:13 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:12:13 INFO  Log:33 - Opening Browser
+2020-05-22 20:12:19 INFO  Log:33 - Chrome browser started
+2020-05-22 20:12:19 INFO  Log:33 - Navigating to URL
+2020-05-22 20:12:24 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:12:24 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:12:24 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:12:24 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:12:25 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:12:25 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:12:25 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:12:33 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:12:41 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:12:44 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:12:53 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:12:53 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:12:53 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:12:53 INFO  Log:24 - X
+2020-05-22 20:12:53 INFO  Log:25 - X
+2020-05-22 20:12:53 INFO  Log:26 - X
+2020-05-22 20:12:53 INFO  Log:27 - X
+2020-05-22 20:13:19 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:13:19 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:13:19 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:13:19 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:13:19 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:13:19 INFO  Log:33 - Opening Browser
+2020-05-22 20:13:24 INFO  Log:33 - Chrome browser started
+2020-05-22 20:13:24 INFO  Log:33 - Navigating to URL
+2020-05-22 20:13:29 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:13:29 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:13:30 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:13:30 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:13:30 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:13:30 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:13:30 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:13:33 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:13:38 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:13:38 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:13:38 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:13:38 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:13:39 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:13:39 INFO  Log:24 - X
+2020-05-22 20:13:39 INFO  Log:25 - X
+2020-05-22 20:13:39 INFO  Log:26 - X
+2020-05-22 20:13:39 INFO  Log:27 - X
+2020-05-22 20:14:01 INFO  Log:13 - ****************************************************************************************
+2020-05-22 20:14:01 INFO  Log:14 - ****************************************************************************************
+2020-05-22 20:14:01 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-22 20:14:01 INFO  Log:16 - ****************************************************************************************
+2020-05-22 20:14:01 INFO  Log:17 - ****************************************************************************************
+2020-05-22 20:14:01 INFO  Log:33 - Opening Browser
+2020-05-22 20:14:07 INFO  Log:33 - Chrome browser started
+2020-05-22 20:14:07 INFO  Log:33 - Navigating to URL
+2020-05-22 20:14:12 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-22 20:14:12 INFO  Log:33 - Entering the text in CompanyID
+2020-05-22 20:14:12 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-22 20:14:12 INFO  Log:33 - Entering the text in UserID
+2020-05-22 20:14:12 INFO  Log:33 - Clicking on Webelement Password
+2020-05-22 20:14:12 INFO  Log:33 - Entering the text in Password
+2020-05-22 20:14:12 INFO  Log:33 - Clicking on Webelement Login
+2020-05-22 20:14:15 INFO  Log:33 - Validate TitleTitle
+2020-05-22 20:14:20 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-22 20:14:20 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LC
+2020-05-22 20:14:20 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-22 20:14:20 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-22 20:14:21 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-22 20:14:21 INFO  Log:24 - X
+2020-05-22 20:14:21 INFO  Log:25 - X
+2020-05-22 20:14:21 INFO  Log:26 - X
+2020-05-22 20:14:21 INFO  Log:27 - X
+2020-05-23 19:11:24 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:11:24 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:11:24 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:11:24 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:11:24 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:11:24 INFO  Log:33 - Opening Browser
+2020-05-23 19:11:30 INFO  Log:33 - Chrome browser started
+2020-05-23 19:11:31 INFO  Log:33 - Navigating to URL
+2020-05-23 19:11:36 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-23 19:11:36 INFO  Log:33 - Entering the text in CompanyID
+2020-05-23 19:11:36 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-23 19:11:36 INFO  Log:33 - Entering the text in UserID
+2020-05-23 19:11:36 INFO  Log:33 - Clicking on Webelement Password
+2020-05-23 19:11:36 INFO  Log:33 - Entering the text in Password
+2020-05-23 19:11:36 INFO  Log:33 - Clicking on Webelement Login
+2020-05-23 19:11:40 INFO  Log:33 - Validate TitleTitle
+2020-05-23 19:11:45 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-23 19:11:45 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-23 19:11:45 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-23 19:11:45 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-23 19:11:46 INFO  Log:33 - Correct Title
+2020-05-23 19:11:46 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:11:46 INFO  Log:24 - X
+2020-05-23 19:11:46 INFO  Log:25 - X
+2020-05-23 19:11:46 INFO  Log:26 - X
+2020-05-23 19:11:46 INFO  Log:27 - X
+2020-05-23 19:11:46 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:11:46 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:11:46 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:11:46 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:11:46 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:11:46 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-23 19:11:46 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-23 19:11:46 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:11:51 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-23 19:11:53 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:11:58 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-23 19:11:59 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-23 19:12:00 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-23 19:12:01 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-23 19:12:02 INFO  Log:33 - Entering the text in Notes
+2020-05-23 19:12:02 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:12:07 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-23 19:12:08 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:12:08 INFO  Log:24 - X
+2020-05-23 19:12:08 INFO  Log:25 - X
+2020-05-23 19:12:08 INFO  Log:26 - X
+2020-05-23 19:12:08 INFO  Log:27 - X
+2020-05-23 19:12:08 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-23 19:12:08 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:12:08 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:12:08 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:12:08 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:12:08 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:12:08 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-23 19:12:08 INFO  Log:33 - Clicking on Webelement logout
+2020-05-23 19:12:08 INFO  Log:33 - Capture Screenshotlogout
+2020-05-23 19:12:09 ERROR Log:41 - Not able to click --- invalid selector: Unable to locate an element with the xpath expression //*[@id="oa_menu_button_logout" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="oa_menu_button_logout"' is not a valid XPath expression.
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-ERQOL71', ip: '192.168.0.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\shrey\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 778c9232f77eb4e40ce62c740a023f70
+*** Element info: {Using=xpath, value=//*[@id="oa_menu_button_logout"}
+2020-05-23 19:12:09 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:12:09 INFO  Log:24 - X
+2020-05-23 19:12:09 INFO  Log:25 - X
+2020-05-23 19:12:09 INFO  Log:26 - X
+2020-05-23 19:12:09 INFO  Log:27 - X
+2020-05-23 19:47:55 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:47:55 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:47:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:47:55 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:47:55 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:47:55 INFO  Log:33 - Opening Browser
+2020-05-23 19:48:01 INFO  Log:33 - Chrome browser started
+2020-05-23 19:48:01 INFO  Log:33 - Navigating to URL
+2020-05-23 19:48:06 INFO  Log:33 - Clicking on Webelement CompanyID
+2020-05-23 19:48:06 INFO  Log:33 - Entering the text in CompanyID
+2020-05-23 19:48:06 INFO  Log:33 - Clicking on Webelement UserID
+2020-05-23 19:48:06 INFO  Log:33 - Entering the text in UserID
+2020-05-23 19:48:06 INFO  Log:33 - Clicking on Webelement Password
+2020-05-23 19:48:06 INFO  Log:33 - Entering the text in Password
+2020-05-23 19:48:06 INFO  Log:33 - Clicking on Webelement Login
+2020-05-23 19:48:10 INFO  Log:33 - Validate TitleTitle
+2020-05-23 19:48:15 INFO  Log:33 -  TitleOpenAir : Home : AST LLC
+2020-05-23 19:48:15 INFO  Log:33 -  Expected TitleOpenAir : Home : AST LLC
+2020-05-23 19:48:15 ERROR Log:41 - Not able to validate/incorrect Title --- 
+2020-05-23 19:48:15 INFO  Log:33 - Capture ScreenshotTitle
+2020-05-23 19:48:15 INFO  Log:33 - Correct Title
+2020-05-23 19:48:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:48:15 INFO  Log:24 - X
+2020-05-23 19:48:15 INFO  Log:25 - X
+2020-05-23 19:48:15 INFO  Log:26 - X
+2020-05-23 19:48:15 INFO  Log:27 - X
+2020-05-23 19:48:15 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:48:15 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:48:15 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:48:15 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:48:15 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:48:15 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-05-23 19:48:15 INFO  Log:33 - Clicking on Webelement CreateNewInput
+2020-05-23 19:48:15 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:48:20 INFO  Log:33 - Clicking on Webelement NewType
+2020-05-23 19:48:21 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:48:26 INFO  Log:33 - Selecting dropdown valuesTimesheetstartingdate
+2020-05-23 19:48:27 INFO  Log:33 - Selecting dropdown valuesDuplicate
+2020-05-23 19:48:28 INFO  Log:33 - Selecting dropdown valuesChangeHours
+2020-05-23 19:48:29 INFO  Log:33 - Clicking on Webelement Notes
+2020-05-23 19:48:29 INFO  Log:33 - Entering the text in Notes
+2020-05-23 19:48:29 INFO  Log:33 - Wait for 5 seconds
+2020-05-23 19:48:34 INFO  Log:33 - Clicking on Webelement Cancel
+2020-05-23 19:48:35 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:48:35 INFO  Log:24 - X
+2020-05-23 19:48:35 INFO  Log:25 - X
+2020-05-23 19:48:35 INFO  Log:26 - X
+2020-05-23 19:48:35 INFO  Log:27 - X
+2020-05-23 19:48:35 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-05-23 19:48:35 INFO  Log:13 - ****************************************************************************************
+2020-05-23 19:48:35 INFO  Log:14 - ****************************************************************************************
+2020-05-23 19:48:35 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-05-23 19:48:35 INFO  Log:16 - ****************************************************************************************
+2020-05-23 19:48:35 INFO  Log:17 - ****************************************************************************************
+2020-05-23 19:48:35 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-05-23 19:48:35 INFO  Log:33 - Clicking on Webelement logout
+2020-05-23 19:48:36 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-05-23 19:48:36 INFO  Log:24 - X
+2020-05-23 19:48:36 INFO  Log:25 - X
+2020-05-23 19:48:36 INFO  Log:26 - X
+2020-05-23 19:48:36 INFO  Log:27 - X
+2020-07-05 21:04:55 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:04:55 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:04:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:04:55 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:04:55 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:04:55 INFO  Log:33 - Opening Browser
+2020-07-05 21:04:56 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:04:56 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:04:56 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:04:56 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:04:56 INFO  Log:24 - X
+2020-07-05 21:04:56 INFO  Log:25 - X
+2020-07-05 21:04:56 INFO  Log:26 - X
+2020-07-05 21:04:56 INFO  Log:27 - X
+2020-07-05 21:04:56 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:04:56 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:04:56 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:04:56 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:04:56 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:04:56 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:04:56 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:04:56 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:04:56 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:04:57 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:04:57 INFO  Log:24 - X
+2020-07-05 21:04:57 INFO  Log:25 - X
+2020-07-05 21:04:57 INFO  Log:26 - X
+2020-07-05 21:04:57 INFO  Log:27 - X
+2020-07-05 21:04:57 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:04:57 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:04:57 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:04:57 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:04:57 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:04:57 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:04:57 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:04:57 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:04:57 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:04:57 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:04:57 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:04:57 INFO  Log:24 - X
+2020-07-05 21:04:57 INFO  Log:25 - X
+2020-07-05 21:04:57 INFO  Log:26 - X
+2020-07-05 21:04:57 INFO  Log:27 - X
+2020-07-05 21:05:12 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:12 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:12 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:12 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:12 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:12 INFO  Log:33 - Opening Browser
+2020-07-05 21:05:13 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:05:13 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:05:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:13 INFO  Log:24 - X
+2020-07-05 21:05:13 INFO  Log:25 - X
+2020-07-05 21:05:13 INFO  Log:26 - X
+2020-07-05 21:05:13 INFO  Log:27 - X
+2020-07-05 21:05:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:05:13 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:05:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:13 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:05:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:13 INFO  Log:24 - X
+2020-07-05 21:05:13 INFO  Log:25 - X
+2020-07-05 21:05:13 INFO  Log:26 - X
+2020-07-05 21:05:13 INFO  Log:27 - X
+2020-07-05 21:05:13 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:05:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:13 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:05:13 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:05:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:13 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:05:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:13 INFO  Log:24 - X
+2020-07-05 21:05:13 INFO  Log:25 - X
+2020-07-05 21:05:13 INFO  Log:26 - X
+2020-07-05 21:05:13 INFO  Log:27 - X
+2020-07-05 21:05:30 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:31 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:31 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:31 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:31 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:31 INFO  Log:33 - Opening Browser
+2020-07-05 21:05:31 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:05:31 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:05:31 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:32 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:32 INFO  Log:24 - X
+2020-07-05 21:05:32 INFO  Log:25 - X
+2020-07-05 21:05:32 INFO  Log:26 - X
+2020-07-05 21:05:32 INFO  Log:27 - X
+2020-07-05 21:05:32 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:32 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:05:32 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:05:32 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:32 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:05:32 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:32 INFO  Log:24 - X
+2020-07-05 21:05:32 INFO  Log:25 - X
+2020-07-05 21:05:32 INFO  Log:26 - X
+2020-07-05 21:05:32 INFO  Log:27 - X
+2020-07-05 21:05:32 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:05:32 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:05:32 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:05:32 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:05:32 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:05:32 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:05:32 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:05:32 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:05:32 INFO  Log:24 - X
+2020-07-05 21:05:32 INFO  Log:25 - X
+2020-07-05 21:05:32 INFO  Log:26 - X
+2020-07-05 21:05:32 INFO  Log:27 - X
+2020-07-05 21:10:21 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:10:21 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:10:21 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:10:21 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:10:21 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:10:21 INFO  Log:33 - Opening Browser
+2020-07-05 21:10:22 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:10:22 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:10:22 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:10:22 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:10:22 INFO  Log:24 - X
+2020-07-05 21:10:22 INFO  Log:25 - X
+2020-07-05 21:10:22 INFO  Log:26 - X
+2020-07-05 21:10:22 INFO  Log:27 - X
+2020-07-05 21:10:22 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:10:22 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:10:22 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:10:22 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:10:22 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:10:22 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:10:22 INFO  Log:24 - X
+2020-07-05 21:10:22 INFO  Log:25 - X
+2020-07-05 21:10:22 INFO  Log:26 - X
+2020-07-05 21:10:22 INFO  Log:27 - X
+2020-07-05 21:10:22 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:10:22 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:10:22 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:10:22 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:10:22 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:10:22 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:10:22 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:10:22 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:10:22 INFO  Log:24 - X
+2020-07-05 21:10:22 INFO  Log:25 - X
+2020-07-05 21:10:22 INFO  Log:26 - X
+2020-07-05 21:10:22 INFO  Log:27 - X
+2020-07-05 21:13:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:13:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:13:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:13:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:13:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:13:13 INFO  Log:33 - Opening Browser
+2020-07-05 21:13:15 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:13:15 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:13:15 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:13:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:13:15 INFO  Log:24 - X
+2020-07-05 21:13:15 INFO  Log:25 - X
+2020-07-05 21:13:15 INFO  Log:26 - X
+2020-07-05 21:13:15 INFO  Log:27 - X
+2020-07-05 21:13:15 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:13:15 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:13:15 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:13:15 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:13:15 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:13:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:13:15 INFO  Log:24 - X
+2020-07-05 21:13:15 INFO  Log:25 - X
+2020-07-05 21:13:15 INFO  Log:26 - X
+2020-07-05 21:13:15 INFO  Log:27 - X
+2020-07-05 21:13:15 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:13:15 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:13:15 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:13:15 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:13:15 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:13:15 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:13:15 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:13:15 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:13:15 INFO  Log:24 - X
+2020-07-05 21:13:15 INFO  Log:25 - X
+2020-07-05 21:13:15 INFO  Log:26 - X
+2020-07-05 21:13:15 INFO  Log:27 - X
+2020-07-05 21:14:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:33 - Opening Browser
+2020-07-05 21:14:13 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:14:13 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:14:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:13 INFO  Log:24 - X
+2020-07-05 21:14:13 INFO  Log:25 - X
+2020-07-05 21:14:13 INFO  Log:26 - X
+2020-07-05 21:14:13 INFO  Log:27 - X
+2020-07-05 21:14:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:14:13 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:14:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:13 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:14:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:13 INFO  Log:24 - X
+2020-07-05 21:14:13 INFO  Log:25 - X
+2020-07-05 21:14:13 INFO  Log:26 - X
+2020-07-05 21:14:13 INFO  Log:27 - X
+2020-07-05 21:14:13 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:14:13 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:13 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:13 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:14:13 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:14:13 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:13 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:14:13 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:13 INFO  Log:24 - X
+2020-07-05 21:14:13 INFO  Log:25 - X
+2020-07-05 21:14:13 INFO  Log:26 - X
+2020-07-05 21:14:13 INFO  Log:27 - X
+2020-07-05 21:14:55 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:55 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:33 - Opening Browser
+2020-07-05 21:14:55 INFO  Log:33 - Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe
+2020-07-05 21:14:55 INFO  Log:33 - Capture Screenshot
+2020-07-05 21:14:55 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:55 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:55 INFO  Log:24 - X
+2020-07-05 21:14:55 INFO  Log:25 - X
+2020-07-05 21:14:55 INFO  Log:26 - X
+2020-07-05 21:14:55 INFO  Log:27 - X
+2020-07-05 21:14:55 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 NewCloneTimeSheet       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:55 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:33 - Clicking on Webelement ExpandPlus
+2020-07-05 21:14:55 INFO  Log:33 - Capture ScreenshotExpandPlus
+2020-07-05 21:14:55 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:55 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:14:55 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:55 INFO  Log:24 - X
+2020-07-05 21:14:55 INFO  Log:25 - X
+2020-07-05 21:14:55 INFO  Log:26 - X
+2020-07-05 21:14:55 INFO  Log:27 - X
+2020-07-05 21:14:55 ERROR Log:41 - Class Utils | Method getCellData | Exception description : null
+2020-07-05 21:14:55 INFO  Log:13 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:14 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:15 - $$$$$$$$$$$$$$$$$$$$$                 Logout       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-05 21:14:55 INFO  Log:16 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:17 - ****************************************************************************************
+2020-07-05 21:14:55 INFO  Log:33 - Clicking on Webelement logoutMenuArrow
+2020-07-05 21:14:55 INFO  Log:33 - Capture ScreenshotlogoutMenuArrow
+2020-07-05 21:14:55 ERROR Log:41 - Not able to capture screenshot --- null
+2020-07-05 21:14:55 ERROR Log:41 - Not able to click --- null
+2020-07-05 21:14:55 INFO  Log:23 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-07-05 21:14:55 INFO  Log:24 - X
+2020-07-05 21:14:55 INFO  Log:25 - X
+2020-07-05 21:14:55 INFO  Log:26 - X
+2020-07-05 21:14:55 INFO  Log:27 - X
